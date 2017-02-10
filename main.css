@@ -1,0 +1,25 @@
+h1, h2 {
+	font-family: 'playfair display';
+	text-align: center;
+	color: #fff;
+}
+
+p {
+	font-family: 'Raleway';
+	color: #fff;
+}
+
+li {
+	color: #666666;
+  	display: inline-block;
+  	font-family: 'Raleway', sans-serif;
+  	font-size: 12px;
+  	font-weight: 100;
+  	letter-spacing: 2px;
+  	margin: 20px;
+  	text-transform: uppercase;
+}
+
+body {
+	background-color: #1E1E24;
+}
