@@ -5,6 +5,7 @@ h1, h2 {
 }
 
 p {
+	margin: 20px;
 	font-family: 'Raleway';
 	color: #fff;
 }
